@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[facebook]
 
 <br />
 
@@ -55,6 +55,7 @@
 
 </details>
 
+[facebook]: https://www.facebook.com/raii24/
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
