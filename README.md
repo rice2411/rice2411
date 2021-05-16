@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Rice - aka Tôn Thất Anh Minh 👋
+## Hi there, I'm Rice - aka Tôn Thất Anh Minh 👋
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play guitar / drums
