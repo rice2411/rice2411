@@ -35,10 +35,10 @@
 ### 📕 My Project
 
 <!-- BLOG-POST-LIST:START -->
-- [Programming Course](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Music Web](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Weather App](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Chat App](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Programming Course (updating)](/)
+- [Music Web (updating)](/)
+- [Weather App (updating)](https://rice2411.github.io/Weather-app/)
+- [Chat App (updating)](/)
 <!-- BLOG-POST-LIST:END -->
 
 
