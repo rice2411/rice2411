@@ -37,7 +37,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Programming Course (updating)](/)
 - [Music Web (updating)](/)
-- [Weather App (updating)](https://rice2411.github.io/Weather-app/)
+- [Weather App](https://rice2411.github.io/Weather-app/)
 - [Chat App (updating)](/)
 <!-- BLOG-POST-LIST:END -->
 
