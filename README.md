@@ -38,7 +38,7 @@
 - [Programming Course (updating)](/)
 - [Music Web (updating)](/)
 - [Weather App](https://rice2411.github.io/Weather-app/)
-- [Chat App (updating)](/)
+- [Chat App](http://www.ricechatapp.somee.com/)
 <!-- BLOG-POST-LIST:END -->
 
 
