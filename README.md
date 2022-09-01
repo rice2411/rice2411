@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="[https://now-playing-codestackr.vercel.app/api/spotify-playing](https://media.loveitopcdn.com/3030/la-ai-mang-nang-di-xa-1.png)" alt="Là ai mang nắng đi xa" width="350" />
 
 ### Connect with me:
 
@@ -30,29 +30,5 @@
 <br />
 <br />
 
----
 
-### 📕 My Project
-
-<!-- BLOG-POST-LIST:START -->
-- [Programming Course (updating)](/)
-- [Music Web (updating)](/)
-- [Weather App](https://rice2411.github.io/Weather-app/)
-- [Chat App](http://www.ricechatapp.somee.com/)
-<!-- BLOG-POST-LIST:END -->
-
-
-
----
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[facebook]: https://www.facebook.com/raii24/
 
