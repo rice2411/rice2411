@@ -48,6 +48,12 @@
   </tbody>
 </table>
 
+# This is an archive of exercises for Javascript developers 
+1. [Weather App](https://github.com/rice2411/weather-app)
+2. [Covid 19 Tracking](https://github.com/rice2411=/covid-19-tracking)
+3. [Blog MERN App](https://github.com/rice2411/simple-mern-app)
+4. [Chat App](https://github.com/rice2411/firebase-chat-app)
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/rice2411" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://fb.com/ricee24" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
 </p>
