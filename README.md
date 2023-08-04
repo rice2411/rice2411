@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Minh but you can call me Rice, Fullstack developer from <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/> <b>Huế, Việt Nam</b>, I'm still living in <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/> <b>Huế City</b>. </p>
+<p>Welcome to my page! </br> I'm Minh but you can call me Rice, Web developer from <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/> <b>Huế, Việt Nam</b>, I'm still living in <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/> <b>Huế City</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
