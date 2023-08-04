@@ -64,7 +64,7 @@
 
 # This is an archive of exercises for Javascript developers 
 1. [Weather App](https://github.com/rice2411/weather-app)
-2. [Covid 19 Tracking](https://github.com/rice2411=/covid-19-tracking)
+2. [Covid 19 Tracking](https://github.com/rice2411/covid-19-tracking)
 3. [Blog MERN App](https://github.com/rice2411/simple-mern-app)
 4. [Chat App](https://github.com/rice2411/firebase-chat-app)
 
