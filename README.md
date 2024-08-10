@@ -4,7 +4,7 @@ I'm Matvey, a professional Web developer from Vietnam <img src="https://investon
 
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/rice2411)
 [![](https://img.shields.io/badge/-Facebook-FFF?&logo=Facebook&logoColor=0866FF)](https://fb,com/rice2411)
-
+[![](https://img.shields.io/badge/-Linkedin-FFF?&logo=linkedin&logoColor=0866FF)](https://www.linkedin.com/in/rice2411/)
 
 ### Languages
 
