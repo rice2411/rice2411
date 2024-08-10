@@ -1,75 +1,49 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+###  Hi there, I'm Riceee 👋
+
+I'm Matvey, a professional Web developer from Vietnam <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/>.
+
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/rice2411)
+[![](https://img.shields.io/badge/-Facebook-FFF?&logo=Facebook&logoColor=0866FF)](https://fb,com/rice2411)
 
 
-<p>Welcome to my page! </br> I'm Minh but you can call me Rice, Web developer from <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/> <b>Huế, Việt Nam</b>, I'm still living in <img src="https://investone-law.com/wp-content/uploads/2019/06/quoc-ky-viet-nam.jpg" width="13"/> <b>Huế City</b>. </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	  <img alt="npm" src="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/rice2411/base-reactjs"><b>ReactJS Base Source & Tailwind CSS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/rice2411/base-nodejs"><b>NodeJS Base Source & Typescript</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/rice2411/zing-mp3"><b>ZingMp3 Client - Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/rice2411/zing-mp3-api"><b>ZingMp3-Api - Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  
-  </tbody>
-</table>
+### Languages
 
-# This is an archive of exercises for Javascript developers 
-1. [Weather App](https://github.com/rice2411/weather-app)
-2. [Covid 19 Tracking](https://github.com/rice2411/covid-19-tracking)
-3. [Blog MERN App](https://github.com/rice2411/simple-mern-app)
-4. [Chat App](https://github.com/rice2411/firebase-chat-app)
-5. [Note App](https://github.com/rice2411/note-app)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/rice2411)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://github.com/rice2411)
+[![C#](https://img.shields.io/badge/CSharp-000?&logo=cplusplus&logoColor=883cae)](https://github.com/rice2411)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://github.com/rice2411)
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/rice2411" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://fb.com/ricee24" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-</p>
+### Technologies
+
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Express-000?&logo=express)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-React-000?&logo=React)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Redis-000?&logo=Redis)](https://ra1nbow.xyz?ref=github)
+
+### Other
+
+[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://ra1nbow.xyz?ref=github)
+[![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)](https://ra1nbow.xyz?ref=github)
+
+<a href="https://github.com/rice241">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
+</a>
+<a href="https://github.com/rice241">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
 
